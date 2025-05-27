@@ -14,6 +14,9 @@ class Add:
         name = input("name : ")
         email = input("email : ")
         phone = input("phone_number : ")
+        if not phone.isdigit():
+            print("Erreur : le numéro de téléphone doit contenir uniquement des chiffres.")
+            return
 
         self.db.cursor.execute("""
             INSERT INTO customer (name, email, phone_number)

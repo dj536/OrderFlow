@@ -47,6 +47,7 @@ class Creadd:
     def orders_details_tb_create(self):
         if not self.conn:
             self.conn = sqlite3.connect("ecom_db.db")
+            self.conn.execute("PRAGMA foreign_keys = ON")
         if not self.cursor:
             self.cursor = self.conn.cursor()
         self.cursor.execute("""CREATE TABLE IF NOT EXISTS order_details(
@@ -55,7 +56,7 @@ class Creadd:
                        id_product INTEGER,
                        quantity INT,
                        price float,
-                       FOREIGN KEY(id_order) REFERENCES orders(order_id),
+                       FOREIGN KEY(id_order) REFERENCES orders(order_id) ON DELETE CASCADE,
                        FOREIGN KEY(id_product) REFERENCES products(product_id)
 
                        )""")
@@ -63,10 +64,3 @@ class Creadd:
 
     def close_connection(self):
         self.conn.close()
-
-#creadd = Creadd()
-#creadd.my_customer_tb_create()
-#creadd.products_tb_create()
-#creadd.orders_tb_create()
-#creadd.orders_details_tb_create()
-#creadd.close_connection()
