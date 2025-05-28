@@ -42,5 +42,7 @@ Générer des rapports comme :
 
 ## 🛠️ Technologies utilisées:
   Python 3.11.9
+  
   SQL
+  
   sqlite3 (base de données locale)
