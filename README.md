@@ -46,3 +46,15 @@ Générer des rapports comme :
   SQL
   
   sqlite3 (base de données locale)
+
+
+## ⚙️ Installation
+  ```
+git clone https://github.com/votre-utilisateur/SalesTrack.git
+cd SalesTrack
+```
+```
+pip install pysqlite3
+```
+
+
