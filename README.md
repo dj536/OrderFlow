@@ -1,4 +1,4 @@
-#VentePlus – Système de gestion de ventes
+# VentePlus – Système de gestion de ventes
 📌 Description
 SalesTrack est une console de gestion qui utilise  Python et SQL pour gérér les ventes en local. Elle permet d’enregistrer automatiquement les informations liées aux produits, clients et commandes, tout en générant des statistiques pour faciliter la prise de décision.
 
