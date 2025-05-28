@@ -1,8 +1,8 @@
 # SalesTrack – Console de gestion de ventes
 
 SalesTrack est une console de gestion qui utilise  Python et SQL pour gérér les ventes en local. Elle permet d’enregistrer automatiquement les informations liées aux produits, clients et commandes, tout en générant des statistiques pour faciliter la prise de décision.
-Python <span style="color:#3776AB;">3.11.9</span> <span style="color:#E38C00;">SQL</span> et <span style="color:#003B57;">SQLite3</span>
-
+```Python <span style="color:#3776AB;">3.11.9</span> <span style="color:#E38C00;">SQL</span> et <span style="color:#003B57;">SQLite3</span>
+```
 
 
 ## 📂 Structure du projet
