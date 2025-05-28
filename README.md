@@ -13,7 +13,7 @@ SalesTrack est une console de gestion qui utilise  Python et SQL pour gérér le
 └─ sales_report.py         # Ce fichier définit la classe Report, qui fournit des rapports analytiques sur les ventes, produits, revenus et commandes, permettant d'extraire des statistiques journalières, mensuelles ou par client à partir de la base de données.
 └─ main.py                 # Ce fichier permet de tester le programme en entier.```
 
-🚀 Fonctionnalités
+## 🚀 Fonctionnalités
 Ajouter, supprimer des produits
 
 Enregistrer , supprimer un client
