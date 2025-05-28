@@ -11,8 +11,8 @@ SalesTrack est une console de gestion qui utilise  Python et SQL pour gérér le
 ├─ purchase.py             # Ce fichier définit la classe Purchasing, qui permet d'enregistrer une vente (commande client) et de réapprovisionner le stock d’un produit dans la base de données.
 ├─ purchase_history.py     # Ce fichier définit la classe Purchase, qui permet d’afficher l’historique des commandes d’un client donné, en listant les produits achetés, leurs quantités et prix, pour chaque commande enregistrée dans la base de données.
 └─ sales_report.py         # Ce fichier définit la classe Report, qui fournit des rapports analytiques sur les ventes, produits, revenus et commandes, permettant d'extraire des statistiques journalières, mensuelles ou par client à partir de la base de données.
-└─ main.py                 # Ce fichier permet de tester le programme en entier.```
-
+└─ main.py                 # Ce fichier permet de tester le programme en entier.
+```
 ## 🚀 Fonctionnalités
 Ajouter, supprimer des produits
 
