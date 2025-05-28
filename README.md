@@ -4,7 +4,7 @@ SalesTrack est une console de gestion qui utilise  Python et SQL pour gérér le
 
 
 
-## 📂 Structure du projet
+## 📂Structure du projet
 ``` SalesTrack/
 .
 ├─ my_db_create.py         # Ce fichier Python définit une classe Creadd qui a pour rôle de créer la bases de donnée.
@@ -17,7 +17,7 @@ SalesTrack est une console de gestion qui utilise  Python et SQL pour gérér le
 ```
 
 
-## 🚀 Fonctionnalités
+## 🚀Fonctionnalités
 
 Ajouter, supprimer des produits
 
@@ -40,7 +40,7 @@ Générer des rapports comme :
   -Top 100 des prosuits  moins populaires
 
 
-## 🛠️ Technologies utilisées:
+## 🛠️Technologies utilisées:
   Python 3.11.9
   
   SQL
