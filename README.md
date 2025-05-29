@@ -64,7 +64,7 @@ https://sqlitebrowser.org/dl/
 
 🧠Opérations sur la base de donnée
 
-Lancez le programme
+Lancez le programme:
 ```
 python3 main.py
 ```
