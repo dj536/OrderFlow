@@ -83,17 +83,19 @@ Le programme:
 
 Avant une opération d'enregistrement de vente, voila les différentes tables de la bases de donnée
 
-![image_alt](https://github.com/dj536/SalesTrack/blob/master/product.png?raw=true)
+![image_alt](https://github.com/dj536/SalesTrack/blob/master/images/product.png?raw=true)
 
-![image_alt](https://github.com/dj536/SalesTrack/blob/master/order.png?raw=true)
+![image_alt](https://github.com/dj536/SalesTrack/blob/master/images/order.png?raw=true)
 
-![image_alt](https://github.com/dj536/SalesTrack/blob/master/order_detail.png?raw=true)
+![image_alt](https://github.com/dj536/SalesTrack/blob/master/images/order_detail.png?raw=true)
 
 Avant tout achat, on remarque que dans la table product, le stock de clavier est de 23 et celui des souris sans fil Logitech est de 13. Aussi on remarque que les tables Orders et Order_details sont vides parceque aucune vente n'a été effectuée. Enregistrons donc une ventes(Un clavier et une souris sans fil Logitech) et constatons les changements dans les tables de la base de donnée.
 
-![image_alt](https://github.com/dj536/SalesTrack/blob/master/new_product.png?raw=true)
-![image_alt](https://github.com/dj536/SalesTrack/blob/781b8bd51865d5971d794472cfb2ee018ff258c3/order.png)
-![image_alt](https://github.com/dj536/SalesTrack/blob/master/o_details.png?raw=true)
+![image_alt](https://github.com/dj536/SalesTrack/blob/master/images/new_product.png?raw=true)
+
+![image_alt](https://github.com/dj536/SalesTrack/blob/master/images/ordersss.png?raw=true)
+
+![image_alt](https://github.com/dj536/SalesTrack/blob/master/images/o_details.png?raw=true)
 
 
 
