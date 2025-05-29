@@ -126,7 +126,9 @@ Les détails de la commande ont été enregistrés dans la table order_details.
 
 
 👨‍💻 Auteur
+
 Réalisé par Justin DJIDONOU. N'hésitez pas à poser vos questions, signaler un bug ou proposer des idées.
+
 Vos suggestions sont les bienvenues 🙂
 
 
