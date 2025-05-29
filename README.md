@@ -56,5 +56,9 @@ cd SalesTrack
 ```
 pip install pysqlite3
 ```
+Vous pouvez télécharger DB Browser for SQLite ici:
+```
+https://sqlitebrowser.org/dl/
+```
 
 
