@@ -80,9 +80,13 @@ Le programme:
 
 
 🧪 Exemple de Résultat
+
 Avant une opération d'enregistrement de vente, voila les différentes tables de la bases de donnée
+
 ![product]("C:\Users\djido\Downloads\ecom_project\product.png")
+
 ![order]("C:\Users\djido\Downloads\ecom_project\order.png")
+
 ![order_detail](""C:\Users\djido\Downloads\ecom_project\order_detail.png"")
 
 
