@@ -85,9 +85,9 @@ Avant une opération d'enregistrement de vente, voila les différentes tables de
 
 ![image_alt](https://github.com/dj536/SalesTrack/blob/master/product.png?raw=true)
 
-![order]("https://github.com/dj536/SalesTrack/blob/master/order.png?raw=true")
+![image_alt](https://github.com/dj536/SalesTrack/blob/master/order.png?raw=true)
 
-![order_detail]("https://github.com/dj536/SalesTrack/blob/master/order_detail.png?raw=true")
+![image_alt](https://github.com/dj536/SalesTrack/blob/master/order_detail.png?raw=true)
 
 
 
