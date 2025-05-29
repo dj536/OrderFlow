@@ -83,7 +83,7 @@ Le programme:
 
 Avant une opération d'enregistrement de vente, voila les différentes tables de la bases de donnée
 
-![product]("https://github.com/dj536/SalesTrack/blob/master/product.png?raw=true")
+![image_alt](https://github.com/dj536/SalesTrack/blob/master/product.png?raw=true)
 
 ![order]("https://github.com/dj536/SalesTrack/blob/master/order.png?raw=true")
 
