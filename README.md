@@ -99,6 +99,7 @@ Avant tout achat, on remarque que dans la table product, le stock de clavier est
 ![image_alt](https://github.com/dj536/SalesTrack/blob/master/images/o_details.png?raw=true)
 
 
+
 🔄 Mise à jour après enregistrement d’une vente
 Avant l’enregistrement de la commande, le stock initial dans la table products était de :
 
@@ -123,6 +124,7 @@ L’ID du client
 La date d’achat
 
 Les détails de la commande ont été enregistrés dans la table order_details.
+
 
 
 👨‍💻 Auteur
