@@ -83,11 +83,11 @@ Le programme:
 
 Avant une opération d'enregistrement de vente, voila les différentes tables de la bases de donnée
 
-![product]("product.png")
+![product]("https://github.com/dj536/SalesTrack/blob/master/product.png?raw=true")
 
-![order](order.png")
+![order]("https://github.com/dj536/SalesTrack/blob/master/order.png?raw=true")
 
-![order_detail]("order_detail.png")
+![order_detail]("https://github.com/dj536/SalesTrack/blob/master/order_detail.png?raw=true")
 
 
 
