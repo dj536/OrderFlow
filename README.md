@@ -79,7 +79,7 @@ Le programme:
   .générer des statistiques en fonctions des données de ventes qui sont dans la base de donnée afin de faciliter la prise de décision
 
 
-🧪 Exemple de Résultat
+🧪 Exemple de Résultat après l'enregistrement d'une vente
 
 Avant une opération d'enregistrement de vente, voila les différentes tables de la bases de donnée
 
@@ -89,13 +89,47 @@ Avant une opération d'enregistrement de vente, voila les différentes tables de
 
 ![image_alt](https://github.com/dj536/SalesTrack/blob/master/images/order_detail.png?raw=true)
 
-Avant tout achat, on remarque que dans la table product, le stock de clavier est de 23 et celui des souris sans fil Logitech est de 13. Aussi on remarque que les tables Orders et Order_details sont vides parceque aucune vente n'a été effectuée. Enregistrons donc une ventes(Un clavier et une souris sans fil Logitech) et constatons les changements dans les tables de la base de donnée.
+Avant tout achat, on remarque que dans la table product, le stock de clavier est de 23 et celui des souris sans fil Logitech est de 13.
+
 
 ![image_alt](https://github.com/dj536/SalesTrack/blob/master/images/new_product.png?raw=true)
 
 ![image_alt](https://github.com/dj536/SalesTrack/blob/master/images/ordersss.png?raw=true)
 
 ![image_alt](https://github.com/dj536/SalesTrack/blob/master/images/o_details.png?raw=true)
+
+
+🔄 Mise à jour après enregistrement d’une vente
+Avant l’enregistrement de la commande, le stock initial dans la table products était de :
+
+Clavier : 23 unités
+
+Souris sans fil Logitech : 13 unités
+
+Les tables orders et order_details étaient vides car aucune vente n'avait encore été effectuée.
+
+✅ Après l'enregistrement d'une vente (1 clavier et 1 souris sans fil Logitech) :
+
+Les stocks ont été mis à jour automatiquement :
+
+Clavier : passé de 23 à 22
+
+Souris sans fil Logitech : passé de 13 à 12
+
+Une ligne a été ajoutée dans la table orders avec :
+
+L’ID du client
+
+La date d’achat
+
+Les détails de la commande ont été enregistrés dans la table order_details.
+
+
+👨‍💻 Auteur
+Réalisé par Justin DJIDONOU. N'hésitez pas à poser vos questions, signaler un bug ou proposer des idées.
+Vos suggestions sont les bienvenues 🙂
+
+
 
 
 
