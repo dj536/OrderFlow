@@ -1,6 +1,6 @@
 # SalesTrack – Console de gestion de ventes
 
-SalesTrack est une console de gestion qui utilise  Python et SQL pour gérér les ventes en local. Elle permet d’enregistrer automatiquement les informations liées aux produits, clients et commandes, tout en générant des statistiques pour faciliter la prise de décision.
+SalesTrack est une console de gestion qui utilise  Python et SQL pour gérer les ventes en local. Elle permet d’enregistrer automatiquement les informations liées aux produits, aux clients et commandes, tout en générant des statistiques pour faciliter la prise de décision.
 
 
 
@@ -101,6 +101,7 @@ Avant tout achat, on remarque que dans la table product, le stock de clavier est
 
 
 🔄 Mise à jour après enregistrement d’une vente
+
 Avant l’enregistrement de la commande, le stock initial dans la table products était de :
 
 Clavier : 23 unités
