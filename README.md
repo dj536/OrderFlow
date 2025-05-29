@@ -48,7 +48,7 @@ Générer des rapports comme :
   sqlite3 (base de données locale)
 
 
-## ⚙️ Installation
+## ⚙️Installation
   ```
 git clone https://github.com/votre-utilisateur/SalesTrack.git
 cd SalesTrack
@@ -60,5 +60,34 @@ Vous pouvez télécharger DB Browser for SQLite ici:
 ```
 https://sqlitebrowser.org/dl/
 ```
+
+
+🧠Opérations sur la base de donnée
+Lancez le programme
+```
+python3 main.py
+```
+Le programme:
+ -Vous présente un menu qui vous donne la possibilité de:
+
+  .faire des opérations sur la base de donnée comme des ajouts, suppressions de clients ou de produits,
+
+  .Réaprovisionner le stock d'un produit,
+
+  . Enregistrer une vente dont les détails seront directement stockés dans la base de donnée,
+
+  .générer des statistiques en fonctions des données de ventes qui sont dans la base de donnée afin de faciliter la prise de décision
+
+
+🧪 Exemple de Résultat
+Avant une opération d'enregistrement de vente, voila les différentes tables de la bases de donnée
+![product]("C:\Users\djido\Downloads\ecom_project\product.png")
+![order]("C:\Users\djido\Downloads\ecom_project\order.png")
+![order_detail](""C:\Users\djido\Downloads\ecom_project\order_detail.png"")
+
+
+
+
+  
 
 
