@@ -83,11 +83,11 @@ Le programme:
 
 Avant une opération d'enregistrement de vente, voila les différentes tables de la bases de donnée
 
-![product]("C:\Users\djido\Downloads\ecom_project\product.png")
+![product]("product.png")
 
-![order]("C:\Users\djido\Downloads\ecom_project\order.png")
+![order](order.png")
 
-![order_detail](""C:\Users\djido\Downloads\ecom_project\order_detail.png"")
+![order_detail]("order_detail.png")
 
 
 
